@@ -1,0 +1,1 @@
+Raspberry PI4 OS installation and access through VNC from Laptop (Windows/Mac). VNC will enable through "SSH" by putty. Required hardware and software: Raspberry PI4 Hardware, PI4 Power supply, Micro SD card, SD card reader, Ethernet cable, Raspberry PI OS image file, Imager software, IP scanner, Real VNC, Putty
